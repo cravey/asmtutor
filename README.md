@@ -1,8 +1,8 @@
 # asmtutor
 
-Runthrough of x86 assembly on asmtutor.com
-Mostly to:
-     a) Learn Git
-     2) Learn GitHub
-     III) Learn NASM
-     D) Learn ordered lists
+Runthrough of x86 assembly on asmtutor.com<br>
+Mostly to:<br>
+     a) Learn Git<br>
+     2) Learn GitHub<br>
+     III) Learn NASM<br>
+     D) Learn ordered lists<br>
